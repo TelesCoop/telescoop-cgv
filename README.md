@@ -7,3 +7,4 @@ Ce repo contient les conditions générales de vente de TelesCoop. Le texte pour
 
 # Processus de mise à jour / publication :
  - [ ] ne pas oublier de mettre à jour les dates en début de CGV.md après toute mise à jour / publication
+ - [ ] mettre à jour le montant de la police d'assurance dans I.5 responsabilité
